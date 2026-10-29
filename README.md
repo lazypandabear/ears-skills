@@ -105,3 +105,4 @@ pip install pyyaml && python scripts/validate.py && python -m unittest discover 
 - QRA Corp, "When Not to Use EARS": https://qracorp.com/when-not-to-use-ears/
 - Wikipedia summary: https://en.wikipedia.org/wiki/Easy_Approach_to_Requirements_Syntax
 - Hermes Agent skills: https://hermes-agent.nousresearch.com/docs/user-guide/features/skills
+# ears-skills
